@@ -2,7 +2,7 @@ import TypewriterComponent from "typewriter-effect";
 import Banner from "../../Components/Home/Banner/Banner";
 import hero1 from "../../assets/hero_1.webp";
 import { Link } from "react-router-dom";
-import Features from "./Features";
+import Features from "../../Components/Home/Features/Features";
 
 
 const Home = () => {
